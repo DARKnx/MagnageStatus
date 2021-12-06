@@ -22,8 +22,8 @@ function avatar(client, array, time){
 
 let i = 0;
   
-if (!time) time = 1;
-setInterval(() => client.user.setAvatar(`${array[i++ % array.length]}`), time*60000	)
+if (!time) time = 3;
+setInterval(() => client.user.setAvatar(`${array[i++ % array.length]}`), time*60000*60	)
     
 }
 
