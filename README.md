@@ -50,3 +50,9 @@ const random = require('./status.js');
 random.avatar(client, ['https://imgur.com/abcd.png', 'https://imgur.com/efhj.png'], 4)
 
 ```
+
+
+
+<p>Para qualquer duvida referente ao bot ou sua programação entre em contato pelo discord (DARKnx#6070/567004154569162753)</p>
+
+```Copyright © 2021 DARKnx```
