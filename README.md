@@ -38,7 +38,7 @@ Parametro |     tipo        |  opcional  |  descrição
 ----------------------------------------------------------------------------------
 client    |   ClientUser    |    false   |  o user que sera alterado
 images    |  Array (images) |    false   |  o array de imagens para troca
-time      | Number(hors) |    true    |  tempo em segundos para troca de status
+time      | Number(hors)    |    true    |  tempo em segundos para troca de status
 
 ```
 exemplo:
